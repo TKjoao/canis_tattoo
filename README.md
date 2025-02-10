@@ -21,10 +21,9 @@ O **Canis Tattoo** é um estúdio especializado em **fineline, preto e cinza e r
 ---
 
 ## 🎯 Prévia do Projeto  
-Você pode visualizar a página [aqui](#) *(adicione o link quando publicar)*.
+Você pode visualizar a página.
 
-### 📸 Capturas de Tela 
-*(Adicione screenshots do site aqui, se desejar)*  
+### 📸 Capturas de Tela  
 
 ---
 
